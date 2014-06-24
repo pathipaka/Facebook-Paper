@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E4F3704E-3C4F-4CEF-AB27-537BE1066B68</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Facebook-Paper</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CF03267E-A6D7-4922-BD0F-41C8C0A6873A</key>
+		<string>https://github.com/pathipaka/Facebook-Paper.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Facebook-Paper/Facebook-Paper.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CF03267E-A6D7-4922-BD0F-41C8C0A6873A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pathipaka/Facebook-Paper.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CF03267E-A6D7-4922-BD0F-41C8C0A6873A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CF03267E-A6D7-4922-BD0F-41C8C0A6873A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Facebook-Paper</string>
+		</dict>
+	</array>
+</dict>
+</plist>
