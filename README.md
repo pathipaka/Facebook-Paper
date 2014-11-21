@@ -6,8 +6,6 @@ Week 3 Homework
 
 ![alt tag](Facebook_Paper_Demo.gif)
 
-Time spent - 11hrs
-
 Completed Tasks - 
 
 Dragging the headline should reveal the menu
